@@ -65,7 +65,7 @@ char *error_1(char **args)
 
 	return (error);
 
-
+}
 /*
   Creates an error message for shellby_exit errors, an array of arguments passed to the command'@args'
  */
