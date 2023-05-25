@@ -32,7 +32,7 @@ int num_len(int num)
 	return (len);
 }
 
-/* 
+/*
 Converts an integer to a string.'_itoa '
  */
 char *_itoa(int num)
